@@ -1,4 +1,4 @@
 # TodoList
-A to-do list project to add, delete or strike through your day-to-day commitments. 
+A to-do list with add, delete and strikethrough functionality.
 
-*Technologies - HTML5, CSS3, jQuery*
+*Technology stack - HTML5, CSS3, jQuery*
